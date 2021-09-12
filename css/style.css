@@ -225,6 +225,10 @@ body{
     .full-quote h5 , .four-image-section h5{
         font-size: 20px;
     }
+    .four-image-section .left{
+
+    margin-left: 0;
+}
 }
 @media (max-width:992px){
     .banner-text p{
